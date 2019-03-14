@@ -2,15 +2,19 @@
 
 # ppwd
 
-A CLI tool to check for occurrences in public breaches of your password
+A CLI tool to check for occurrences in public breaches of your password (or your friend's)
 
 ## Usage
 
-`ppwd <password> [<next password>]`
+```sh
+ppwd <password> [<next password>]
+```
 
 ## Install
 
-`npm i -g ppwd`
+```sh
+npm i -g ppwd
+```
 
 
 ## Thanks 
