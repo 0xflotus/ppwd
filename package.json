@@ -1,0 +1,10 @@
+{
+  "name": "ppwd",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "0xflotus",
+  "bin": {
+    "ppwd": "./ppwd"
+  },
+  "license": "MIT"
+}
