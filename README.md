@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/ppwd@2x.png)](https://badge.fury.io/js/ppwd)
+[![yarn version](https://badge.fury.io/js/ppwd@2x.png)](https://yarnpkg.com/en/package/ppwd)
 
 # ppwd
 
