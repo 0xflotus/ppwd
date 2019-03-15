@@ -7,13 +7,13 @@ A CLI tool to check for occurrences in public breaches of your password (or your
 ## Usage
 
 ```sh
-ppwd <password> [<next password>]
+$ ppwd <password> [<next password>]
 ```
 
 ## Install
 
 ```sh
-npm i -g ppwd
+$ npm i -g ppwd
 ```
 
 
