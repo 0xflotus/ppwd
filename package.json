@@ -1,6 +1,6 @@
 {
   "name": "ppwd",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "author": "0xflotus",
   "bin": {
@@ -10,6 +10,10 @@
     "url": "https://github.com/0xflotus/ppwd.git",
     "type": "git"
   },
-  "keywords": ["password", "haveibeenpwned", "pwned"],
+  "keywords": [
+    "password",
+    "haveibeenpwned",
+    "pwned"
+  ],
   "license": "MIT"
 }
