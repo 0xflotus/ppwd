@@ -11,7 +11,7 @@ if (3 > process.argv.length) {
 
     const [head, tail] = [shaRes.slice(0, 5), shaRes.slice(5)];
 
-    https.get("https://api.pwnedpasswords.com/range/" + head, res => {
+    https.get(`https://api.pwnedpasswords.com/range/${head}`, res => {
       const arrayBuffer = [];
 
       res
